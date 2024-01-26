@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @you1234-boop
+- 👋 Hi, I’m Joydeep 
 - 👀 I’m interested in coding and cyber security 
 - 🌱 I’m currently learning cyber security 
 - 💞️ I’m looking to collaborate on ...
