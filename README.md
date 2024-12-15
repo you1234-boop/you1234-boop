@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Joydeep 
 - 👀 I’m interested in coding and cyber security 
-- 🌱 I’m currently learning cyber security 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 🌱 I’m currently learning cyber security  
 
 <!---
 you1234-boop/you1234-boop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
